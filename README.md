@@ -77,7 +77,7 @@ npx hardhat run scripts/deploy.js --network sepolia
 ### 6️⃣ 执行测试脚本
 
 ``` bash
-npx hardhat run scripts/testMint.js --network sepolia
+npx hardhat run scripts/test-nft.js --network sepolia
 ```
 
 ## 🔗 技术栈
